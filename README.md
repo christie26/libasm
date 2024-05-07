@@ -29,3 +29,7 @@ gcc -S -o ft_strlen.s ft_strlen.c
 gdb <execute_filename>
 disas <function_name>
 ```
+
+## cheatsheet
+https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
+https://cheatography.com/mika56/cheat-sheets/asm-8086/
